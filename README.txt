@@ -1,0 +1,1 @@
+This is test result of IBM course Python project for data Science in Coursera
